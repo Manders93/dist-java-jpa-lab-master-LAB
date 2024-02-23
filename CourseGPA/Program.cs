@@ -20,6 +20,9 @@ namespace CourseGPA
                 {
                     break;
                 }
+
+                // here are some changes
+                
                 // prompt for course name
                 Console.WriteLine("Enter the course name.");
                 Console.ReadLine();
