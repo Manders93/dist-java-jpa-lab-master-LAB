@@ -3,9 +3,13 @@
 namespace CourseGPA
 {
     class Program
+        class Messy
     {
         static void Main(string[] args)
+        void Main
         {
+            int i3;
+        int i2;
             int i;
             // accumulator needed to calculate GPA
             int gradePoints = 0;
